@@ -23,7 +23,7 @@ One of the well-known calibration methods in the field of computer vision, which
 2. Each cell is accompanied by comments to provide explanations for the code
 
 ### Note 🛠️
-Feel free to customize and expand upon this project to suit your needs!
+Feel free to customize and expand upon this project to suit your needs!   
 File Path doesn't match so you need to modify!
 
 
